@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\TestStore\\TestStore.csproj": {}
+    "D:\\TestScore\\Solution1\\TestStore\\TestStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\TestStore\\TestStore.csproj": {
+    "D:\\TestScore\\Solution1\\TestStore\\TestStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\TestStore\\TestStore.csproj",
+        "projectUniqueName": "D:\\TestScore\\Solution1\\TestStore\\TestStore.csproj",
         "projectName": "TestStore",
-        "projectPath": "C:\\Users\\User\\Desktop\\TestStore\\TestStore.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\TestStore\\obj\\",
+        "projectPath": "D:\\TestScore\\Solution1\\TestStore\\TestStore.csproj",
+        "packagesPath": "C:\\Users\\volkt\\.nuget\\packages\\",
+        "outputPath": "D:\\TestScore\\Solution1\\TestStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\volkt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
